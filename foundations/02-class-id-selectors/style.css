@@ -11,4 +11,6 @@ p {
 }
 #green {
   background-color: rgb(161, 252, 143);
+  font-size: 24px;
+  font-weight: bold;
 }
